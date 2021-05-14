@@ -1,0 +1,6 @@
+/home/basuki/Projects/calculator/calculator/bin/Debug/calculator.exe
+/home/basuki/Projects/calculator/calculator/bin/Debug/calculator.pdb
+/home/basuki/Projects/calculator/calculator/obj/x86/Debug/calculator.csprojAssemblyReference.cache
+/home/basuki/Projects/calculator/calculator/obj/x86/Debug/calculator.csproj.CoreCompileInputs.cache
+/home/basuki/Projects/calculator/calculator/obj/x86/Debug/calculator.exe
+/home/basuki/Projects/calculator/calculator/obj/x86/Debug/calculator.pdb
